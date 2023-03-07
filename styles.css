@@ -1,0 +1,48 @@
+/* Change main background to white */
+._31N0dvxfpsO6Ur5AKx4O5d {
+  background: white;
+}
+
+/* Remove the input field for new posts as I just browse */
+._2jJNpBqXMbbyOiGCElTYxZ {
+  display: none !important;
+}
+
+/* Remove border and margin of the , as I think it looks dumb */
+.wBtTDilkW_rtT2k5x3eie {
+  border: none !important;
+  margin-bottom: 0 !important;
+}
+
+/* Clean up the top bar noise */
+.x0hiXHicn7r3BG9m1FJH4 {
+  display: none !important;
+}
+#change-username-tooltip-id {
+  display: none !important;
+}
+
+/* Remove user profile picture because it looks dumb, seriously */
+.efdkOLo3oigH_95whTYCp {
+  display: none !important;
+}
+
+._33aRtz9JtW0dIrBNKFAl0y {
+  display: none !important;
+}
+
+.QscnL9OySMkHhGudEvEya {
+  display: none !important;
+}
+
+.MSTY2ZpsdupobywLEfx9u {
+  padding-top: 16px !important;
+}
+
+._31N0dvxfpsO6Ur5AKx4O5d {
+  padding-top: 0px !important;
+}
+
+#email-collection-tooltip-id {
+  width: auto;
+}
